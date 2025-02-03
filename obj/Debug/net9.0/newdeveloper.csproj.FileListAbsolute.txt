@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\newdeveloper\bin\Debug\net9.0\newdeveloper.exe
+C:\Users\user\Desktop\newdeveloper\bin\Debug\net9.0\newdeveloper.dll
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.AssemblyInfo.cs
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.dll
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\refint\newdeveloper.dll
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.pdb
+C:\Users\user\Desktop\newdeveloper\bin\Debug\net9.0\newdeveloper.deps.json
+C:\Users\user\Desktop\newdeveloper\bin\Debug\net9.0\newdeveloper.runtimeconfig.json
+C:\Users\user\Desktop\newdeveloper\bin\Debug\net9.0\newdeveloper.pdb
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\newdeveloper.genruntimeconfig.cache
+C:\Users\user\Desktop\newdeveloper\obj\Debug\net9.0\ref\newdeveloper.dll
